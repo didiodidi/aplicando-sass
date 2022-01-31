@@ -434,11 +434,11 @@ section .bienvenidos {
 section .bienvenidos h2 {
   letter-spacing: 4px;
   font-weight: 300;
-  transform: scale(1.7);
+  transform: scale(2);
   transition: all 1.7s;
 }
 section .bienvenidos h2:hover {
-  transform: scale(2);
+  transform: scale(2.5);
 }
 
 /*# sourceMappingURL=style.css.map */
