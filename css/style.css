@@ -393,9 +393,6 @@ nav .nav-li li a:hover {
     justify-content: center;
     align-items: center;
   }
-  .trabajos .trabajos-container h2 {
-    margin-bottom: 40px;
-  }
   .trabajos .trabajos-container h3 {
     transform: translateY(20px);
   }
