@@ -131,5 +131,17 @@ section{
             transform: translateY(15px);
         }
     }
+
+    .contacto {
+        .contact-form{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            input{
+                margin: 20px;
+            }
+        }
+    }
 }
 

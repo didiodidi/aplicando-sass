@@ -462,5 +462,14 @@ section .bienvenidos h2:hover {
 .trabajos .trabajos-container h3 {
   transform: translateY(15px);
 }
+.trabajos .contacto .contact-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.trabajos .contacto .contact-form input {
+  margin: 20px;
+}
 
 /*# sourceMappingURL=style.css.map */
