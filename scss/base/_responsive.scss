@@ -122,9 +122,8 @@ section{
             margin-bottom: 40px;
         }
     .trabajos-container{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
+        display: grid;
+        justify-content: space-around;
         align-items: center;
         
         h3{
