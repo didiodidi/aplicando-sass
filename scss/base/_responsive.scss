@@ -115,17 +115,20 @@ section{
 }
 
 .trabajos{
+    a{
+        margin-top: 10px;
+    }
     h2{
             margin-bottom: 40px;
         }
     .trabajos-container{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
         
         h3{
-            transform: translateY(20px);
+            transform: translateY(15px);
         }
     }
 }

@@ -447,17 +447,20 @@ section .bienvenidos h2:hover {
   align-items: center;
 }
 
+.trabajos a {
+  margin-top: 10px;
+}
 .trabajos h2 {
   margin-bottom: 40px;
 }
 .trabajos .trabajos-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .trabajos .trabajos-container h3 {
-  transform: translateY(20px);
+  transform: translateY(15px);
 }
 
 /*# sourceMappingURL=style.css.map */
