@@ -82,10 +82,7 @@
                 align-items: center;
             }
             .nav-li{
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
+                border-bottom: 1px solid #525881;
             }
         }
     }
