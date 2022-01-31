@@ -394,7 +394,7 @@ nav .nav-li li a:hover {
     align-items: center;
   }
   .trabajos .trabajos-container h3 {
-    transform: scaleY(20px);
+    transform: translateY(20px);
   }
 }
 
