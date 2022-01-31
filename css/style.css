@@ -419,6 +419,12 @@ nav .nav-li li a:hover {
     justify-content: center;
     align-items: center;
   }
+  header .titulo-container .nav-li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
