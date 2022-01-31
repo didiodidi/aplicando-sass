@@ -441,4 +441,11 @@ section .bienvenidos h2:hover {
   transform: scale(2.7);
 }
 
+.bio .bio-grid {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
 /*# sourceMappingURL=style.css.map */
