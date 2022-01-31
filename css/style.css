@@ -400,7 +400,7 @@ nav .nav-li li a:hover {
     transform: translateY(20px);
   }
 
-  .contacto {
+  .contacto .contact-form {
     display: flex;
     flex-direction: column;
     justify-content: center;
