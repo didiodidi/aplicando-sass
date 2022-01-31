@@ -432,7 +432,7 @@ section .bienvenidos {
   flex-direction: column;
 }
 section .bienvenidos h2 {
-  letter-spacing: 4px;
+  letter-spacing: 7px;
   font-weight: 300;
   transform: scale(2);
   transition: all 1.7s;
