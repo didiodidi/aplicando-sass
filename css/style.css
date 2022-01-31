@@ -427,14 +427,14 @@ nav .nav-li li a:hover {
   }
 }
 section .bienvenidos {
-  font-size: 80%;
+  font-size: 100%;
   display: flex;
   flex-direction: column;
 }
 section .bienvenidos h2 {
-  letter-spacing: 3px;
+  letter-spacing: 4px;
   font-weight: 300;
-  transform: scale(1.5);
+  transform: scale(1.7);
   transition: all 1.7s;
 }
 section .bienvenidos h2:hover {
