@@ -343,7 +343,7 @@ nav .nav-li li a:hover {
   text-align: center;
   background-color: #2D3047;
   color: #aab2eb;
-  height: 50px;
+  height: 100%;
 }
 .footer p {
   padding: 15px;
