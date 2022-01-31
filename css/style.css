@@ -454,8 +454,9 @@ section .bienvenidos h2:hover {
   margin-bottom: 40px;
 }
 .trabajos .trabajos-container {
-  display: grid;
-  justify-content: space-around;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
 }
 .trabajos .trabajos-container h3 {
