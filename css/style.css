@@ -425,51 +425,27 @@ nav .nav-li li a:hover {
     justify-content: center;
     align-items: center;
   }
-}
-section .bienvenidos {
-  font-size: 100%;
-  display: flex;
-  flex-direction: column;
-}
-section .bienvenidos h2 {
-  letter-spacing: 9px;
-  font-weight: 300;
-  transform: scale(2.3);
-  transition: all 1.7s;
-}
-section .bienvenidos h2:hover {
-  transform: scale(2.7);
-}
 
-.bio .bio-grid {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+  section .bienvenidos {
+    font-size: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  section .bienvenidos h2 {
+    letter-spacing: 9px;
+    font-weight: 300;
+    transform: scale(2.3);
+    transition: all 1.7s;
+  }
+  section .bienvenidos h2:hover {
+    transform: scale(2.7);
+  }
 
-.trabajos a {
-  margin-top: 10px;
-}
-.trabajos h2 {
-  margin-bottom: 40px;
-}
-.trabajos .trabajos-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.trabajos .trabajos-container h3 {
-  transform: translateY(15px);
-}
-.trabajos .contacto .contact-form {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.trabajos .contacto .contact-form input {
-  margin: 20px;
+  .bio .bio-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
