@@ -266,6 +266,9 @@ nav .nav-li li a:hover {
   align-items: center;
   align-content: center;
 }
+.contacto .contact-form h2 {
+  padding: 6%;
+}
 .contacto .contact-form div textarea {
   text-align: center;
   resize: none;
