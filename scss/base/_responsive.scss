@@ -96,12 +96,12 @@ section{
         flex-direction: column;
 
         h2{ 
-            letter-spacing: 7px;
+            letter-spacing: 9px;
             font-weight:300;
-            transform: scale(2);
+            transform: scale(2.3);
             transition: all 1.7s;
             &:hover{
-                transform: scale(2.5);
+                transform: scale(2.7);
             }
         }
     }

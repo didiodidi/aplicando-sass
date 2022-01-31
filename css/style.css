@@ -432,13 +432,13 @@ section .bienvenidos {
   flex-direction: column;
 }
 section .bienvenidos h2 {
-  letter-spacing: 7px;
+  letter-spacing: 9px;
   font-weight: 300;
-  transform: scale(2);
+  transform: scale(2.3);
   transition: all 1.7s;
 }
 section .bienvenidos h2:hover {
-  transform: scale(2.5);
+  transform: scale(2.7);
 }
 
 /*# sourceMappingURL=style.css.map */
