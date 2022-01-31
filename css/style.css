@@ -399,6 +399,13 @@ nav .nav-li li a:hover {
   .trabajos .trabajos-container h3 {
     transform: translateY(20px);
   }
+
+  .contacto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
