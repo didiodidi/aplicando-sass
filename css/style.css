@@ -405,6 +405,9 @@ nav .nav-li li a:hover {
     justify-content: center;
     align-items: center;
   }
+  .contacto .contact-form input {
+    margin: 20px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
